@@ -1,0 +1,1 @@
+print('met all the satndard layed out by ')
